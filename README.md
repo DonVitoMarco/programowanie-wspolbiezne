@@ -1,1 +1,1 @@
-# Studia-Programowanie-Wspolbiezne
+# Programowanie Wspolbiezne
